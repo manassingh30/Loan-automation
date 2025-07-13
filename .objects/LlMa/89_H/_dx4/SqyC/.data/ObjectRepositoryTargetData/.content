@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wu8IQMxRfUK2h04I0Pisig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="71965028-ad9a-48ae-8062-301173ecab30" CvElementArea="785, 764, 331, 64" CvTextArea="814, 785, 248, 23" CvTextArgument="lagree to the Privacy Policy" CvType="Button" DesignTimeRectangle="786, 766, 328, 61" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='I agree to the Privacy Policy →' parentid='mat-mdc-dialog-0' tag='BUTTON' type='button' class='btn center-button btn-black' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='I agree to the Privacy Policy →' /&gt;" Guid="fd900905-0cda-42a4-8097-6128f4453479" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="71965028-ad9a-48ae-8062-301173ecab30" CvTextArea="815, 401, 317, 45" CvTextArgument="Important Notice" CvType="Text" DesignTimeRectangle="817, 406, 314, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='header-text' parentid='mat-mdc-dialog-0' tag='DIV' type='' aaname='Important Notice' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Important Notice' /&gt;" Guid="73aefb01-981f-4e9c-b29a-baeff2efdaa5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a3cac3b0af89f3a6f3ee8ae20ff14f6a.png" xmlns="">0sr6hcBeFwU2IRBMMvqVdYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

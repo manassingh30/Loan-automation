@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NbKyteiR0kSlMOeb1uKCLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="d516cd1c-9acc-4e72-9cf4-8e8a840b9aa6" CvTextArea="1539, 267, 61, 26" CvTextArgument="Login" CvType="Text" DesignTimeRectangle="1531, 253, 79, 54" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Login' tag='A' /&gt;" Guid="85b8b3e2-8fe0-4269-a275-15ffd2d72ab2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="2990c43217d98fa19f50cd65b8894e93.png" xmlns="">0Cuvicd61SE2AqidFqIixKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
