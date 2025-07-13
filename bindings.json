@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "folderPath": {
+          "defaultValue": "Mock 02",
+          "isExpression": false
+        },
+        "BindingsVersion": {
+          "defaultValue": "2.1",
+          "isExpression": false
+        },
+        "ActivityName": {
+          "defaultValue": "Get Asset - From orchestrator",
+          "isExpression": false
+        },
+        "DisplayLabel": {
+          "defaultValue": "FullName",
+          "isExpression": false
+        }
+      }
+    }
+  ]
+}

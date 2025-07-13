@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Your new loan ID is",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "IPBmB3RTYUWD9Y3wxNT3SQ",
+  "Reference": "7GHkrJcrh0SC2ukDCPx5EA/IPBmB3RTYUWD9Y3wxNT3SQ",
+  "ParentRef": "7GHkrJcrh0SC2ukDCPx5EA/Cw6StIjn8kCHlrd9i1n8jQ",
+  "Created": "2025-06-13T11:20:43.3402779Z",
+  "Updated": "2025-06-13T11:20:43.3402779Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Current Yearly Income (…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "HhgUyLML0UOYLnhhaqZnIA",
+  "Reference": "7GHkrJcrh0SC2ukDCPx5EA/HhgUyLML0UOYLnhhaqZnIA",
+  "ParentRef": "7GHkrJcrh0SC2ukDCPx5EA/Cw6StIjn8kCHlrd9i1n8jQ",
+  "Created": "2025-06-13T11:15:16.5528522Z",
+  "Updated": "2025-06-13T11:15:16.5528522Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

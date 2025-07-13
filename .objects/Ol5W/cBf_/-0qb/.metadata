@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Browser -  For logout",
+  "Type": "Screen",
+  "Id": "-0qbdcKU50iFlJQQTTSIHw",
+  "Reference": "7GHkrJcrh0SC2ukDCPx5EA/-0qbdcKU50iFlJQQTTSIHw",
+  "ParentRef": "7GHkrJcrh0SC2ukDCPx5EA/cBf_L-7ZgE-EGaoQaim1-A",
+  "Created": "2025-06-16T07:00:24.732343Z",
+  "Updated": "2025-06-16T07:00:24.732343Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
